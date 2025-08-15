@@ -1,3 +1,5 @@
 slack_bolt
 flask
+requests
 gunicorn
+openai
